@@ -1,4 +1,5 @@
-# Getting and Cleaning Data Course by Johns Hopkins University Project
+# Getting and Cleaning Data Course by Johns Hopkins University
+#### Final Project
 
 This repository is a **Seyed Ali Sadeghi Aghili**'s submission for Getting and Cleaning Data course project. It has the instructions on how to run analysis on Human Activity recognition dataset. 
 

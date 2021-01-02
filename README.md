@@ -1,6 +1,8 @@
 # Getting and Cleaning Data Course by Johns Hopkins University Project
 
-This repository is a **Seyed Ali Sadeghi Aghili**'s submission for Getting and Cleaning Data course project. It has the instructions on how to run analysis on Human Activity recognition dataset.
+This repository is a **Seyed Ali Sadeghi Aghili**'s submission for Getting and Cleaning Data course project. It has the instructions on how to run analysis on Human Activity recognition dataset. 
+
+*__Notice__: __In some parts of this project other functions like bind_rows, bind_cols and rename could be used instead of rbidn, cbind and gsub. But as the matter of Peer assesment I used simple functions.__*
 
 ## Dataset
 Human Activity Recognition Using Smartphones
